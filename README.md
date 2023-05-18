@@ -1,8 +1,8 @@
 ### :space_invader: &nbsp;About Me
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a freelancer and studying computer science (WSB University in Chorzów) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a freelancer and studying computer science (WSB Merito University in Chorzów) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning python, linux, and python libraries/frameworks.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning python and python libraries/frameworks.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2016. Trying to make cool projects.
 
 <p align="center">
