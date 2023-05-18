@@ -1,5 +1,5 @@
 ### :space_invader: &nbsp;About Me
-&nbsp;&nbsp;&nbsp;👩‍💻 &nbsp;Currently working as a Python developer and pursuing a degree in computer science (WSB University in Chorzów).\
+&nbsp;&nbsp;&nbsp;👩‍💻 &nbsp;Currently working as a Python developer and pursuing a degree in computer science (WSB Merito University in Chorzów).\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about science and innovation.\
 &nbsp;&nbsp;&nbsp;💗 &nbsp;Enthusiastic about problem-solving and automating daily routines.\
 &nbsp;&nbsp;&nbsp;✍️ &nbsp;Actively expanding my expertise in Python, its libraries/frameworks, and exploring the field of web development.\
