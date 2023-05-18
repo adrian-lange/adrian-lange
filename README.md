@@ -1,9 +1,9 @@
 ### :space_invader: &nbsp;About Me
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a freelancer and studying computer science (WSB Merito University in Chorzów). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning python and python libraries/frameworks.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2016. Trying to make cool projects.
+&nbsp;&nbsp;&nbsp;👩‍💻 &nbsp;Currently working as a Python developer and pursuing a degree in computer science (WSB University in Chorzów).\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about science and innovation.\
+&nbsp;&nbsp;&nbsp;💗 &nbsp;Enthusiastic about problem-solving and automating daily routines.\
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Actively expanding my expertise in Python, its libraries/frameworks, and exploring the field of web development.\
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since 2016, constantly striving to create impressive projects.
 
 <p align="center">
   <a href="mailto:lange.arj@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
